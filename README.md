@@ -11,6 +11,6 @@ What we offer:
 
 
 
-- Telegram: @vortex23i
+- Telegram: [@vortex23i](https://t.me/vortex23i)
 
 - Discord: Vortex230#1644
