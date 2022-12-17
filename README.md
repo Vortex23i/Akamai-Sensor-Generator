@@ -10,5 +10,7 @@ What we offer:
 - Akamai data collection for generating unlimited unique sensors.
 
 
-Telegram: @vortex23i
-Discord: Vortex230#1644
+
+- Telegram: @vortex23i
+
+- Discord: Vortex230#1644
