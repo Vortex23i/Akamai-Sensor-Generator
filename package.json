@@ -1,0 +1,22 @@
+{
+  "name": "akamai-ast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vortex",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.5",
+    "@babel/generator": "^7.20.5",
+    "@babel/parser": "^7.20.5",
+    "@babel/traverse": "^7.20.5",
+    "@babel/types": "^7.20.5"
+  },
+  "dependencies": {
+    "js-beautify": "^1.14.7"
+  }
+}
